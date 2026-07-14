@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
