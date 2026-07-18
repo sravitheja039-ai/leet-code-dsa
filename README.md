@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0344-reverse-string) |
 ## Heap (Priority Queue)
 |  |
