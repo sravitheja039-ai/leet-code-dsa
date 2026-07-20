@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0680-valid-palindrome-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
