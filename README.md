@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
