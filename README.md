@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0231-power-of-two) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0680-valid-palindrome-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
