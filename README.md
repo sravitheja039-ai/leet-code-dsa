@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0347-top-k-frequent-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0680-valid-palindrome-ii) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/1796-second-largest-digit-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
