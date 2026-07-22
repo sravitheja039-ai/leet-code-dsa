@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0347-top-k-frequent-elements) |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0342-power-of-four) |
 ## Sliding Window
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0347-top-k-frequent-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/1796-second-largest-digit-in-a-string) |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0342-power-of-four) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
