@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0977-squares-of-a-sorted-array) |
