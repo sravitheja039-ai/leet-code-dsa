@@ -160,7 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sravitheja039-ai/leet-code-dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
